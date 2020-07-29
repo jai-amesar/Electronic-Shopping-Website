@@ -5,7 +5,7 @@
 
 <h2>SET-UP</h2>
 -> Place src folder in C:\xampp\htdocs.<br/>
--> Create database "ecommerce" in MYSQL(phpMyAdmin) and import ecommerce.sql(This contains all required tables and sample products data to be displayed in UI).<br/>
+-> Create database "ecommerce" in MYSQL(phpMyAdmin) and import ecommerce.sql (This contains all required tables and sample products data to be displayed in UI).<br/>
 -> Start your Apache and MYSQL server using XAMPP control panel and paste this URL - localhost/src/index.php<br/>
 
 <h2>DONE......<h2>
